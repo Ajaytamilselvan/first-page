@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>welcome to my vercel project</h1>
+      <h1>welcome to AJAY's vercel project</h1>
     </div>
   );
 }
